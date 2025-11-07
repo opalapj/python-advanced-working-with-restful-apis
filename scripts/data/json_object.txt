@@ -1,0 +1,1 @@
+{"str": "something", "float": 3.1415, "int": 3, "tuple": [1, 2, 3], "list": [1, 2, 3], "dict": {"a": 1, "b": 2, "c": 3}, "true": true, "false": false, "none": null, "empty": {}}
