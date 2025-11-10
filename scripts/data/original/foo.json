@@ -1,0 +1,32 @@
+{
+  "foo": [
+    {
+      "id": "69",
+      "brand": "Volvo",
+      "model": "V60",
+      "production_year": 2016,
+      "convertible": false
+    },
+    {
+      "id": "6",
+      "brand": "Volvo",
+      "model": "V60",
+      "production_year": 2016,
+      "convertible": false
+    },
+    {
+      "id": "9",
+      "brand": "Volvo",
+      "model": "V60",
+      "production_year": 2016,
+      "convertible": false
+    },
+    {
+      "id": "8",
+      "brand": "Volvo",
+      "model": "V60",
+      "production_year": 2016,
+      "convertible": false
+    }
+  ]
+}

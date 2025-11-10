@@ -1,0 +1,18 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Porsche",
+      "model": "911",
+      "production_year": 1963,
+      "convertible": false
+    },
+    {
+      "id": 2,
+      "brand": "Ford",
+      "model": "Mustang",
+      "production_year": 1972,
+      "convertible": true
+    }
+  ]
+}
